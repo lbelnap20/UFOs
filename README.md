@@ -9,5 +9,5 @@ To use the search function, fill in one or more seach boxes with desired paramet
 
 ![search image](https://github.com/lbelnap20/UFOs/blob/main/Images/search.png) 
 
-##Summary
+## Summary
 There are a couple drawbacks to this design; first there is no reset button to clear the search boxes and rest the table, second there is no way to download the filtered results into a csv file for later use. In the original design the search text was case senstive, so I added script to make it insenstive. 
